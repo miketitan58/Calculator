@@ -8,5 +8,5 @@ The features this calculaotr contain are as follows:
 - Precal calculations
 - Basic statistic calculations
  
-### Future Updates
+## Future Updates
 In the future, I plan to implement a UI for the calculaotr to allow for the use of the mouse
