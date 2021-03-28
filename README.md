@@ -4,7 +4,7 @@
  
 ## Capabilities
 The features this calculaotr contain are as follows:
-- 4 function calculator with reminder division
+- 4 function calculator with remainder division
 - Precal calculations
 - Basic statistic calculations
  
